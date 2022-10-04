@@ -1,6 +1,3 @@
-# Example 3 for webpack 5
-# Настройка лоадеров для работы с изображениями и стилями
-
 ## Как пользоваться
 
 ```
@@ -18,7 +15,7 @@
 ```
     
     npm run dev
-    npm run build-brod
+    npm run build-prod
 
 ```
 
